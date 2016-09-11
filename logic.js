@@ -29,4 +29,5 @@ $( document ).ready(function() {
     $('#show-another-btn').click(()=>{
       location.reload();
     })
+    
 });

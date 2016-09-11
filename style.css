@@ -1,7 +1,10 @@
 .container {
-  background-color: #404040;
+
   height: 100%;
 
+}
+.bloc-principal{
+  background-color:rgb(73, 73, 73)
 }
 body {
   background-color:white ;
@@ -17,6 +20,12 @@ iframe, object, embed {
 }
 .ad {
   position: relative;
-  left: 13vw;
+
   margin-top: 5px;
+}
+.top-info {
+
+}
+.title {
+  
 }
