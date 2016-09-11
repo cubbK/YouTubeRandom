@@ -13,5 +13,10 @@ h1 {
 
 iframe, object, embed {
     max-width: 100%;
-    
+
+}
+.ad {
+  position: relative;
+  left: 13vw;
+  margin-top: 5px;
 }

@@ -26,4 +26,7 @@ $( document ).ready(function() {
         $('#loading-text').text('');
     });
 
+    $('#show-another-btn').click(()=>{
+      location.reload();
+    })
 });
